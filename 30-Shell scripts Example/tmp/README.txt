@@ -1,1 +1,1 @@
-存放scripts的测试文件
+Storing scripts  test files.
