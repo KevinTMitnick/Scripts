@@ -1,5 +1,5 @@
 #!/bin/bash
-# author:zhangyao
+
 
 # Defined variables and Judge this file
 DbFile=./while_ernie.db

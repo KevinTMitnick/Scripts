@@ -1,10 +1,8 @@
 #!/bin/bash
-# ...
 
 DIR="/oldboy"
 
 [ -d $DIR ] || mkdir -p $DIR
-
 cd $DIR
 
 for i in {1..10}
